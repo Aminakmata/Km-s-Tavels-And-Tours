@@ -1,3 +1,3 @@
 # Km-s-Tavels-And-Tours
-a travelling agency website created to have a user friendly interface that carry out interactions between the user and the server. 
-this website is created using PHP my admin and MySQ1L
+PHP web app with MySQL
+A travel agency booking system that allows users to interact with the system and storing information in the database.
